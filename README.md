@@ -14,11 +14,9 @@
 
 ## Claude Partner Network に参加しています
 
-所属企業は、Anthropic 社のパートナープログラム **Claude Partner Network** に参加しています（2026 年 9 月承認）。社内で Claude の活用を進めており、私自身も Claude 認定資格（Claude Certified Associate）の取得に向けて学習中です。
+所属企業は、Anthropic 社のパートナープログラム **Claude Partner Network** に参加しています（2026 年 9 月承認）。
 
 開発は Claude Code を中心に進め、変更は別系統の AI（Codex）による自動コードレビューを通してから反映しています。AI を使うのは速く作るためで、確認を省くためではありません。
-
-※ 本ページの内容は、Anthropic 社による推奨・保証を示すものではありません。
 
 ## 開発の柱にしていること
 
